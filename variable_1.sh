@@ -7,10 +7,10 @@
 
 #In this script, we can create 4 variables ...
 
-FIRST_NAME=Dianna
-LAST_NAME=KAMGANG
-COLOR=Purple
-AGE=27
+FIRST_NAME=Prudence
+LAST_NAME=Djomo
+COLOR=blue
+AGE=25
 
 echo "$FIRST_NAME is a very hard working girl"
 echo "Her last name is $LAST_NAME and her favorite color is $COLOR"

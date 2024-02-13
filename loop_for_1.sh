@@ -10,7 +10,9 @@
 
 for i in u6bt u7bt u8bt u9bt;
 do 
-    userdel -r ${i}
-    echo "user $i is successfully deleted"
+    #userdel -r ${i}
+    #echo "user $i is successfully deleted"
+    userdel i ${i}
+    echo "user $i is successfully creted"
     sleep 3
 done
